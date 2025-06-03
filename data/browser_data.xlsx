@@ -12,7 +12,7 @@
 Метод измерения: Использование инструмента WebPageTest (webpagetest.org) для замера времени загрузки одних и тех же 5-10 популярных веб-страниц. Замерять First Contentful Paint (FCP), Largest Contentful Paint (LCP), и время до полной загрузки (onload).
 5.Конфиденциальность (Privacy):
 Метод измерения: Использование BrowserAudit (browseraudit.com) для анализа fingerprinting-защиты и других конфиденциальных параметров. Также можно проверить, как браузер обрабатывает Cookie и другие типы отслеживания.
-6юПотребление CPU:
+6.Потребление CPU:
 Метод измерения: Task Manager (Windows), Activity Monitor (macOS) - замер во время воспроизведения видео в формате 4K на YouTube.
 
 Пример таблицы (формат .xlsx, файл data/browser_data.xlsx):
